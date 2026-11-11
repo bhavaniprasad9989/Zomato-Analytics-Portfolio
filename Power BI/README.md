@@ -197,7 +197,7 @@ These tooltips improve dashboard interactivity and help users explore additional
 
 ## Dashboard Preview
 
-![Zomato Power BI Dashboard](./Zomato_Dashboard.png)
+![Zomato Restaurant Analytics Dashboard](./Power%20BI/Zomato%20Restaurant%20Analytics%20Dashboard%20(2).png)
 
 ## How to Use
 
